@@ -1,3 +1,17 @@
+################################
+# Pema Dolker
+# SWE
+# 02230294
+#################################
+# REFERENCES
+# Links that you referred while solving 
+# the problem
+# http://link.to.an.article/video.com 
+################################
+# SOLUTION
+# Your Solution Score:49524
+# 4
+################################
 # Read the input.txt file
 def read_input(filename):
     with open(filename, 'r') as file:
