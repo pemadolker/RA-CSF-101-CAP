@@ -12,6 +12,7 @@
 # Your Solution Score:
 # Task 1: There were 20000 people assigned and there are 6424 of overlapping space assignments
 # Task 2: There were 2457 assignments that overlap completely.
+#https://github.com/pemadolker?tab=repositories
 ################################
 
 # Read the input.txt file
